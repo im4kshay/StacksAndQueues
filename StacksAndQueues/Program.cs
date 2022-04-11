@@ -10,7 +10,10 @@ namespace StacksAndQueues
     {
         static void Main(string[] args)
         {
+            //Welcome Message
             Console.WriteLine("=-=-=-=-=-Welcome To The Stacks And Queues Program-=-=-=-=-=");
+
+            Console.ReadLine();
         }
     }
 }
